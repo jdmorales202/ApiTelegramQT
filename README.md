@@ -1,0 +1,1 @@
+Hello, this is my Telegram API, through which you can send images and text. Additionally, it manipulates a Hikvision camera SDK to access the camera and take a photo. Everything is done in QT. I hope it serves you well
